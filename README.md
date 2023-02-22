@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chen-Hao Wu, aka Vito</h1>
-<h3 align="center">A System Researcher expertise in High-Performance Computing, Embedded Systems and Distributed Computing.</h3>
+<h3 align="center">A PhD student expertise in networked systems.</h3>
 
 - 🔭 I’m currently working on **Chinese University of Hong Kong**
-
-- 💬 Ask me about **SIMD, CUDA, C/C++, Assembly, FPGA Dev**
 
 - 📫 How to reach me: **chenhaowu@link.cuhk.edu.hk**
 
