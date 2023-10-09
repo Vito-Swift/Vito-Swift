@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chen-Hao Wu, aka Vito</h1>
-<h3 align="center">A PhD student expertise in networked systems.</h3>
-
+- I'm Chenhao Wu, a PhD student working in computer networks.
+- 
 - 🔭 I’m currently working on **Chinese University of Hong Kong**
 
 - 📫 How to reach me: **chenhaowu@link.cuhk.edu.hk**
