@@ -1,6 +1,6 @@
 - I'm Chenhao Wu, a PhD student working in computer networks.
 
-- 🔭 I’m currently working at **Chinese University of Hong Kong**
+- 🔭 I’m currently working on **Chinese University of Hong Kong**
 
 - 📫 Email me: **chenhaowu@link.cuhk.edu.hk**
 
