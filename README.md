@@ -4,7 +4,7 @@
 
 - 📫 Email me: **chenhaowu@link.cuhk.edu.hk**
 
-- 📄 Past experiences: [http://vitowu.net](http://vitowu.net)
+- 📄 To my webpage: [http://vitowu.net](http://vitowu.net)
 
 - ⚡ Fun fact: **My Erdös number is 3, while the median of Erdős number of Fields Medalists is also 3!**
 
