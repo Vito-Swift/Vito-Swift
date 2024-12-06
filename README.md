@@ -1,7 +1,7 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -43,10 +43,6 @@ QML                      1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Vito-Swift/Vito-Swift/main/assets/bar_graph.png)
-
-
- Last Updated on 05/12/2024 18:52:46 UTC
+ Last Updated on 06/12/2024 05:52:49 UTC
 <!--END_SECTION:waka-->
