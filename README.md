@@ -1,9 +1,9 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C279%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -13,15 +13,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      16 hrs 49 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
-Other                    7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Python                   6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-C#                       1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+C++                      13 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.99 % 
+Other                    4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+C#                       1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Python                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-Windows                  37 hrs 17 mins      ████████████████████████░   96.78 % 
-Mac                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Windows                  25 hrs 43 mins      ████████████████████████░   94.29 % 
+Mac                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 **I Mostly Code in C++** 
@@ -37,5 +37,5 @@ QML                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2026 19:02:42 UTC
+ Last Updated on 15/01/2026 19:07:23 UTC
 <!--END_SECTION:waka-->
