@@ -1,11 +1,11 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C315%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.45%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.46%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,15 +13,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 2 mins       ██████████████░░░░░░░░░░░   55.02 % 
-Markdown                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-TeX                      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JSON                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Other                    22 hrs 56 mins      █████████████████░░░░░░░░   67.83 % 
+TeX                      3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Python                   1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+C#                       1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  22 hrs 36 mins      ██████████████████░░░░░░░   73.02 % 
-Mac                      8 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Mac                      18 hrs 57 mins      ██████████████░░░░░░░░░░░   56.03 % 
+Windows                  14 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.97 % 
 ```
 
 **I Mostly Code in C++** 
@@ -37,5 +37,5 @@ QML                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2026 19:03:55 UTC
+ Last Updated on 24/01/2026 18:58:04 UTC
 <!--END_SECTION:waka-->
