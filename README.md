@@ -1,9 +1,9 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -13,15 +13,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 50 mins      ███████████████████████░░   91.36 % 
-Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Other                    25 hrs 10 mins      ███████████████████████░░   93.79 % 
+Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      22 hrs 26 mins      █████████████████████░░░░   82.57 % 
-Windows                  4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Mac                      21 hrs 45 mins      ████████████████████░░░░░   81.06 % 
+Windows                  5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 ```
 
 **I Mostly Code in C++** 
@@ -37,5 +37,5 @@ QML                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2026 19:32:29 UTC
+ Last Updated on 04/02/2026 19:28:07 UTC
 <!--END_SECTION:waka-->
