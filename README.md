@@ -1,11 +1,11 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C493%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.74%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,14 +13,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 45 mins      █████████████████░░░░░░░░   68.47 % 
-Python                   7 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Batchfile                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    18 hrs 35 mins      █████████████████████░░░░   85.15 % 
+Python                   2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Mac                      13 hrs 54 mins      █████████████░░░░░░░░░░░░   53.66 % 
-Windows                  12 hrs              ████████████░░░░░░░░░░░░░   46.34 % 
+Mac                      11 hrs 51 mins      ██████████████░░░░░░░░░░░   54.35 % 
+Windows                  9 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
 ```
 
 **I Mostly Code in C++** 
@@ -36,5 +35,5 @@ QML                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 19:40:58 UTC
+ Last Updated on 18/03/2026 19:34:17 UTC
 <!--END_SECTION:waka-->
