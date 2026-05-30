@@ -1,7 +1,7 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C992%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -13,11 +13,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 13 mins      █████████████████████████   100.00 % 
+Other                    11 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 7 mins        ██████████████████████░░░   89.26 % 
-Mac                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Windows                  10 hrs 2 mins       ███████████████████████░░   90.14 % 
+Mac                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 
 **I Mostly Code in C++** 
@@ -33,5 +33,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 19:29:41 UTC
+ Last Updated on 30/05/2026 18:58:44 UTC
 <!--END_SECTION:waka-->
