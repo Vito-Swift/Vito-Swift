@@ -15,12 +15,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 hrs 26 mins      █████████████████████████   99.86 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    31 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 hrs 1 min        ███████████████████████░░   90.22 % 
-Mac                      3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Windows                  26 hrs 32 mins      █████████████████████░░░░   83.13 % 
+Mac                      5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -42,5 +41,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:42:11 UTC
+ Last Updated on 14/08/2026 19:34:17 UTC
 <!--END_SECTION:waka-->
