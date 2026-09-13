@@ -15,12 +15,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 27 mins      █████████████████████████   99.40 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    22 hrs 45 mins      █████████████████████████   99.35 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Windows                  20 hrs 22 mins      █████████████████████░░░░   82.79 % 
-Mac                      4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Windows                  18 hrs 48 mins      █████████████████████░░░░   82.09 % 
+Mac                      4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -32,15 +32,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-TeX                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+C++                      28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+TeX                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 
 
 
 
- Last Updated on 12/09/2026 20:55:20 UTC
+ Last Updated on 13/09/2026 21:08:05 UTC
 <!--END_SECTION:waka-->
