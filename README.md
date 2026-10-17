@@ -15,11 +15,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 33 mins      █████████████████████████   99.57 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    25 hrs 2 mins       █████████████████████████   99.53 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  27 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -41,5 +41,5 @@ TeX                      8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 18:47:45 UTC
+ Last Updated on 17/10/2026 18:44:04 UTC
 <!--END_SECTION:waka-->
