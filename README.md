@@ -1,7 +1,7 @@
 - I'm Chenhao Wu, a PhD student working on computer networks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%2054%20mins-blue?style=flat)
 
@@ -15,11 +15,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 hrs 58 mins      █████████████████████████   99.62 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    44 hrs 37 mins      █████████████████████████   99.56 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  31 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  44 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -41,5 +41,5 @@ TeX                      8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 18:51:40 UTC
+ Last Updated on 20/10/2026 18:49:00 UTC
 <!--END_SECTION:waka-->
